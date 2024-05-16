@@ -38,9 +38,9 @@ The project uses a modular design, with each component in its own file. This mak
 
 With more time, I would implement the following features:
 
-- User authentication: This would allow for different users to have their own positions and candidates.
-- More detailed candidate information: This could include things like a resume, a profile picture, and a rating system.
-- Search functionality: This would allow users to search for positions or candidates.
+- User authentication: This will make the security stronger.
+- More detailed candidate and position information: This could include things like a resume, a profile picture, and a rating system.
+- Filter functionality: This would allow users to filter for positions or candidates.
 
 ## Contributing
 
